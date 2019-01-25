@@ -1,5 +1,5 @@
 class Person
-#name= #name
+  #name=#name
 beyonce = Person.new
 beyonce.name = "Beyonce"
 end

@@ -1,3 +1,4 @@
 class Dog
-  @name= "Fido"
+  @name["Fido"]
+  #name=
 end

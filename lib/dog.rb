@@ -1,4 +1,4 @@
 class Dog
   #name= dogs_name
-  #name
+  fido.name = "Fido"
 end

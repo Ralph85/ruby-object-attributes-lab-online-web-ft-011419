@@ -1,10 +1,8 @@
 class Person
   #name=
+  beyonce.name = "Beyonce"
 end
 
-class Person
-  #name
-end
 
 class Person
   #job=

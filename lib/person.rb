@@ -1,6 +1,6 @@
 class Person
   #name=
-  beyonce.name = "Beyonce"
+  @beyonce.name = "Beyonce"
 end
 
 

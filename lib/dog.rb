@@ -1,4 +1,4 @@
 class Dog
   #name= dogs_name
-  fido.name = "Fido"
+  @fido.name = "Fido"
 end

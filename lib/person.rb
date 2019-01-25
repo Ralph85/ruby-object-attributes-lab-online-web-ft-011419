@@ -8,3 +8,4 @@ end
 
 class Person
   #job=
+end
